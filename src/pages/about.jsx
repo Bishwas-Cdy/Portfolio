@@ -46,7 +46,7 @@ const About = () => {
 										<div className="about-skill">Supabase</div>
 										<div className="about-skill">Linux</div>
 										<div className="about-skill">Neovim</div>
-										<div className="about-skill">Hyprland</div>
+										{/* <div className="about-skill">Hyprland</div> */}
 										<div className="about-skill">Figma</div>
 										<div className="about-skill">Arduino</div>
 									</div>
