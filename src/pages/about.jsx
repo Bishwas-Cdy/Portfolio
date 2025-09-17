@@ -36,7 +36,7 @@ const About = () => {
 										<div className="about-skill">Django</div>
 										<div className="about-skill">Flask</div>
 										<div className="about-skill">FastAPI</div>
-										<div className="about-skill">AI</div>
+										<div className="about-skill">ML</div>
 										<div className="about-skill">Computer Vision</div>
 										<div className="about-skill">HTML</div>
 										<div className="about-skill">CSS</div>

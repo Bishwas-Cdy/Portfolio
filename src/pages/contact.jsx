@@ -20,36 +20,17 @@ const Contact = () => {
 				<div className="content-wrapper">
 					<div className="contact-container">
 						<div className="title contact-title">
-							Let's Get in Touch: Ways to Connect with Me
+							Contact me (but like… why?)
 						</div>
 
 						<div className="subtitle contact-subtitle">
-							Thank you for your interest in getting in touch with
-							me. I welcome your feedback, questions, and
-							suggestions. If you have a specific question or
-							comment, please feel free to email me directly at
-							&nbsp;{" "}
-							<a href={`mailto:${INFO.main.email}`}>
-								{INFO.main.email}
+							If you've made it this far, congrats, you've officially wasted your time. You're either here pretending to enjoy my projects (never happening) or, as I like to say, just wasting your time. You can email me directly at&nbsp;
+							<a href={`mailto:${INFO.main.email}`}style={{textDecoration:'none', color:'#696970', cursor:'pointer', fontWeight:'bold'}}>
+							{INFO.main.email}
 							</a>
-							. I make an effort to respond to all messages within
-							24 hours, although it may take me longer during busy
-							periods. Alternatively, you can use the contact form
-							on my website to get in touch. Simply fill out the
-							required fields and I'll get back to you as soon as
-							possible. Finally, if you prefer to connect on
-							social media, you can find me on{" "}
-							<a
-								href={INFO.socials.instagram}
-								target="_blank"
-								rel="noreferrer"
-							>
-								{INFO.socials.instagram}
-							</a>
-							. I post regular updates and engage with my
-							followers there, so don't hesitate to reach out.
-							Thanks again for your interest, and I look forward
-							to hearing from you!
+							&nbsp;and I might respond before the heat death of the universe or not.
+							<br/>
+							There's also a contact form somewhere. Fill it out, hit submit, and watch your message vanish into the void where all good intentions go to die. But WHY!!!???.
 						</div>
 					</div>
 
