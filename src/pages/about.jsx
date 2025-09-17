@@ -28,6 +28,29 @@ const About = () => {
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
 								</div>
+
+								<div className="about-skills-section">
+									<div className="about-skills-title">Skills</div>
+									<div className="about-skills-list">
+										<div className="about-skill">Python</div>
+										<div className="about-skill">Django</div>
+										<div className="about-skill">Flask</div>
+										<div className="about-skill">FastAPI</div>
+										<div className="about-skill">AI</div>
+										<div className="about-skill">Computer Vision</div>
+										<div className="about-skill">HTML</div>
+										<div className="about-skill">CSS</div>
+										<div className="about-skill">JavaScript</div>
+										<div className="about-skill">React</div>
+										<div className="about-skill">MySQL</div>
+										<div className="about-skill">Supabase</div>
+										<div className="about-skill">Linux</div>
+										<div className="about-skill">Neovim</div>
+										<div className="about-skill">Hyprland</div>
+										<div className="about-skill">Figma</div>
+										<div className="about-skill">Arduino</div>
+									</div>
+								</div>
 							</div>
 
 							<div className="about-left-side">
