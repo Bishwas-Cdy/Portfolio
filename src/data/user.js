@@ -91,6 +91,17 @@ const INFO = {
 			target: "_blank",
 			rel: "noreferrer",
 		},
+
+		{
+			title: "Portfolio",
+			description:
+				"This portfolio website, built with React and Vite, showcases my projects, skills, and coding journey. Clean design, fast performance, and easy navigation for visitors and collaborators.",
+			logo: "/react.svg",
+			linkText: "View on GitHub",
+			link: "https://github.com/Bishwas-Cdy/Portfolio.git",
+			target: "_blank",
+			rel: "noreferrer",
+		},
 	],
 };
 

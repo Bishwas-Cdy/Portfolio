@@ -1,12 +1,49 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Bishwas Chaudhary's Portfolio
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio! This site showcases my work, skills, and projects as a developer passionate about Linux, automation, and creative coding.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Featured Projects
 
-## Expanding the ESLint configuration
+- **Nvim Config**  
+	Highly customized Neovim configuration for productivity, coding, and aesthetics.  
+	[View on GitHub](https://github.com/Bishwas-Cdy/Nvim.git)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Hyprland Dotfiles**  
+	Personal Hyprland configuration files for a beautiful, fast, and highly customizable Linux desktop.  
+	[View on GitHub](https://github.com/Bishwas-Cdy/my-hyprland-dots.git)
+
+- **Sunway Web**  
+	Static website for Sunway, built with pure HTML and CSS.  
+	[View on GitHub](https://github.com/Bishwas-Cdy/Sunway-Web.git)
+
+- **Hospital Management System**  
+	Comprehensive system for managing hospital records, appointments, billing, and staff.  
+	[View on GitHub](https://github.com/Bishwas-Cdy/Hospital-Management-System.git)
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- HTML & CSS
+- Python (for backend projects)
+- Neovim, Hyprland, Linux
+
+## 📦 Getting Started
+
+Clone the repo and run locally:
+
+```bash
+git clone https://github.com/Bishwas-Cdy/Portfolio.git
+cd Portfolio
+npm install
+npm run dev
+```
+
+## 📫 Contact
+
+- Email: bishwas.cdyy@gmail.com
+- [GitHub](https://github.com/Bishwas-Cdy)
+
+---
+Made with Lazyness by Bishwas Chaudhary
