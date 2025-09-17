@@ -40,9 +40,11 @@
 
 .homepage-image-wrapper {
 	overflow: hidden;
-	border-radius: 10%;
+	border-radius: 20%;
 	transform: rotate(3deg);
-}
+	background-position: cover;
+	background-color: black;
+}  
 
 .homepage-image-wrapper img {
 	width: 100%;
