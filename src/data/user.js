@@ -30,9 +30,9 @@ const INFO = {
 
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Dao of Bullshitting",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Made this page just to fill my portfolio and pretend I'm doing something important. Mostly random words, pointless ideas, and a false sense of productivity. Read if you want, waste your time, question reality, and maybe wonder why you're even here.",
 	},
 
 	projects: [
