@@ -14,19 +14,18 @@ const Works = () => {
 				body={
 					<div className="works-body">
 						<div className="work">
-							<div className="work-title">Life</div>
-							<div className="work-subtitle">
-								Unemployed
-							</div>
-							<div className="work-duration">2005-2024</div>
-						</div>
-
-						<div className="work">
 							<div className="work-title">University</div>
 							<div className="work-subtitle">
 								Very Very Unemployed
 							</div>
 							<div className="work-duration">2024 - Present</div>
+						</div>
+						<div className="work">
+							<div className="work-title">Life</div>
+							<div className="work-subtitle">
+								Unemployed
+							</div>
+							<div className="work-duration">2005-2024</div>
 						</div>
 					</div>
 				}
