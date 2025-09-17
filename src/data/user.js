@@ -23,7 +23,6 @@ const INFO = {
 
 
 	about: {
-		// title: "I'm Bishwas, writing code that sometimes listens, mostly not.",
 		title: "I'm Bishwas, I use Arch Btw.",
 		description:
 			"I specialize in full-stack web development and AI/Computer Vision, which means I write code and computers write back in errors. I've wrestled with Python, Django, Flask, FastAPI, and frontend gremlins like HTML, CSS, JavaScript, and React, sometimes winning, sometimes not, mostly not. Databases like MySQL and Supabase just sit there, silently judging every bad decision I make. I solve 'complex problems' that probably hate me as much as I hate them. Somehow, I keep typing, debugging, and pretending this chaos is fun.",
@@ -50,39 +49,47 @@ const INFO = {
 		},
 
 		{
-			title: "Project 2",
+			title: "Hyprland Dotfiles",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"My personal Hyprland configuration files for a beautiful, fast, and highly customizable Linux desktop. Includes window manager tweaks, keybindings, themes, and scripts for a productive workflow. Perfect for anyone who wants to supercharge their Hyprland experience!",
+			logo: "/Hyprland.png",
+			linkText: "View on GitHub",
+			link: "https://github.com/Bishwas-Cdy/my-hyprland-dots.git",
+			target: "_blank",
+			rel: "noreferrer",
 		},
 
 		{
-			title: "Project 3",
+			title: "IntelliVision",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"An AI-powered campus management system with real-time facial recognition, automated attendance tracking, and smart schedule management. Features multi-role dashboards for Admin, Teachers, and Students, live video streaming, and enterprise-grade security for academic environments.",
+			logo: "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/opencv.svg",
+			linkText: "View on GitHub",
+			link: "https://github.com/Bishwas-Cdy/IntelliVision",
+			target: "_blank",
+			rel: "noreferrer",
+		},
+
+		{
+			title: "Sunway Web",
+			description:
+				"A static website for Sunway, built with pure HTML and CSS. No JavaScript, no frameworks—just clean markup and styles for fast loading and easy maintenance.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			linkText: "View on GitHub",
+			link: "https://github.com/Bishwas-Cdy/Sunway-Web.git",
+			target: "_blank",
+			rel: "noreferrer",
 		},
 
 		{
-			title: "Project 4",
+			title: "Hospital Management System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"A comprehensive Hospital Management System designed to streamline patient records, appointments, billing, and staff management. Built for reliability and efficiency in healthcare environments.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View on GitHub",
+			link: "https://github.com/Bishwas-Cdy/Hospital-Management-System.git",
+			target: "_blank",
+			rel: "noreferrer",
 		},
 	],
 };
