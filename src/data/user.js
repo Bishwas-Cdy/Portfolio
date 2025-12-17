@@ -16,7 +16,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Vibe Coder: Pixels, Python, and Pure Chaos.",
+		title: "Coder: Pixels, Python, and Pure Chaos.",
 		description:
 			"Coding was invented because humans clearly needed more ways to suffer… some say it's logical, I say it's a prank by machines. I write code, it writes errors back, laughs at me, and keeps me humble. The first computer bug was literally a moth in a machine, so apparently computers have always been drama queens. Here I am, riding the chaos with Pixels, Python, and pure chaos as my sidekicks because why make things easy when you can make them dramatic?",
 	},
